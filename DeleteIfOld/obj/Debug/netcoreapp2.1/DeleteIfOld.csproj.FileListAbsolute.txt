@@ -1,0 +1,12 @@
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\bin\Debug\netcoreapp2.1\DeleteIfOld.deps.json
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\bin\Debug\netcoreapp2.1\DeleteIfOld.runtimeconfig.json
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\bin\Debug\netcoreapp2.1\DeleteIfOld.runtimeconfig.dev.json
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\bin\Debug\netcoreapp2.1\DeleteIfOld.dll
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\bin\Debug\netcoreapp2.1\DeleteIfOld.pdb
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\obj\Debug\netcoreapp2.1\DeleteIfOld.csprojAssemblyReference.cache
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\obj\Debug\netcoreapp2.1\DeleteIfOld.csproj.CoreCompileInputs.cache
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\obj\Debug\netcoreapp2.1\DeleteIfOld.AssemblyInfoInputs.cache
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\obj\Debug\netcoreapp2.1\DeleteIfOld.AssemblyInfo.cs
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\obj\Debug\netcoreapp2.1\DeleteIfOld.dll
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\obj\Debug\netcoreapp2.1\DeleteIfOld.pdb
+C:\Users\mine.alten\source\repos\DeleteIfOld\DeleteIfOld\bin\Debug\netcoreapp2.1\DeleteIfOld.dll.config
